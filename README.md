@@ -40,8 +40,6 @@ Full-stack e-commerce application with authentication, roles, product management
 ### 📦 Inventory Management System
 Web application for managing inventory, products and users.
 
-### 💬 Real-Time Chat Application
-Chat application using WebSockets with support for public, private and group messaging.
 
 ## 📚 Currently Learning
 
@@ -51,12 +49,10 @@ Chat application using WebSockets with support for public, private and group mes
 - ☁️ Cloud & Deployment
 - 🧠 Machine Learning
 
-## 📊 GitHub Stats
-
-<!-- GPRM can generate GitHub stats here -->
-
 ## 🤝 Connect With Me
 
-- GitHub
-- LinkedIn
-- Email
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hassen.chlady.2025) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassenchlady@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassen-chlady-754b98333/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/hassenchlady/)
+
